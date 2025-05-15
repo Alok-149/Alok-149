@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
 </p> -->
 
-<h2 align="center"> Hello World, I'm Aman! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2 align="center"> Hello, I'm Alok! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 <p align="center" >
   A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development   lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
 <p/>
@@ -38,14 +38,6 @@
   
 </p>
 
-<br/>
-<br/>
-
-## 📊Github Stats
-<p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman149&theme=dark&langs_count=4"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Aman149&theme=dark&show_icons=true"/>
-</p>
 <br/>
 <p align="center">
    <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best ! -black?style=for-the-badge"/>
