@@ -8,7 +8,7 @@
 
 <h2 align="center"> Hello, I'm Alok! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 <p align="center" >
-  A highly resourceful computer programmer and well-rounded IT professional with over two years of computing experience, possessing expert knowledge of the software development   lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications.
+  Welcome to my GitHub profile. I am an aspiring Data Analyst with a strong foundation in data analytics and a keen interest in leveraging data to support strategic decision-making. My work is focused on data collection, cleaning, analysis, visualization, and interpretation, using tools such as Python, SQL, Microsoft Excel, Power BI, and Tableau.
 <p/>
 <br/>
 
