@@ -14,27 +14,13 @@
 
 ## ⚙️Languages, Frameworks and Tools
 <p align="center" >
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/C ++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge"/>
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>      
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
+<img alt="Python" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="SQL" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Power BI" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img alt="Excel" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
 
   <br/>
-  
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge"/> 
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/.NET MVC-5C2D91?logo=.net&logoColor=white&style=for-the-badge"/> 
-  
-  <br/>
-  
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge"/>
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> 
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/SVN-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white"/>
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  
   
 </p>
 
